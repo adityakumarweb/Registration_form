@@ -27,7 +27,7 @@ A simple and responsive registration form built using HTML and CSS.
 
 ## 📸 Screenshot
 
-![Registration Form Screenshot](assets/registration.png)
+![Registration Form Screenshot](assets/registraton.png)
 
 ---
 
